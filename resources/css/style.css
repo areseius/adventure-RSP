@@ -22,3 +22,12 @@ body {
   --mont-font: "Montserrat", sans-serif;
   --bg-color: black;
 }
+html::-webkit-scrollbar {
+  width: 0.3rem;
+}
+html::-webkit-scrollbar-track {
+  background: black;
+}
+html::-webkit-scrollbar-thumb {
+  background: white;
+}

@@ -4,6 +4,7 @@
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
   gap: 9rem;
+  overflow-x: hidden;
 }
 .tour .tour-content {
   text-align: right;
